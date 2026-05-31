@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="zh-Hans">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>生活冒险影像集 | 漫画杂志模板</title>
+    <meta
+      name="description"
+      content="一个以旅行、美食、运动和城市生活为核心的漫画杂志风个人主页模板。"
+    />
+    <link rel="stylesheet" href="comic-template.css?v=4" />
+  </head>
+  <body>
+    <header class="comic-header" aria-label="主导航">
+      <a class="comic-brand" href="#top" aria-label="返回首页">
+        <span>生活冒险</span>
+        <strong>影像集</strong>
+      </a>
+      <nav class="comic-nav" aria-label="页面导航">
+        <a href="#works">作品</a>
+        <a href="#series">系列</a>
+        <a href="#about">关于</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="comic-hero" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="issue-label">Issue 01 / Life Adventure</p>
+          <h1 id="hero-title">把生活拍成一页漫画杂志</h1>
+          <p>
+            旅行路上、城市街角、热气腾腾的餐桌和冲线后的笑容，都收进这本明亮的个人影像刊物。
+          </p>
+          <a href="#works" class="hero-button">进入影像墙</a>
+        </div>
+
+        <div class="hero-stack" aria-label="精选作品预览">
+          <figure class="hero-panel panel-main">
+            <img src="assets/photos/旅途/巴黎铁塔旅拍.png" alt="旅途系列作品" />
+          </figure>
+          <figure class="hero-panel panel-food">
+            <img src="assets/photos/美食/双人火锅餐桌.png" alt="美食系列作品" />
+          </figure>
+          <figure class="hero-panel panel-sport">
+            <img src="assets/photos/运动/团队完赛庆祝.png" alt="运动系列作品" />
+          </figure>
+          <span class="sound-burst">WOW!</span>
+        </div>
+      </section>
+
+      <section class="ticker-band" aria-label="系列摘要">
+        <span>Travel</span>
+        <span>City</span>
+        <span>Food</span>
+        <span>Sport</span>
+        <span>Memory</span>
+      </section>
+
+      <section class="magazine-section" id="works" aria-labelledby="works-title">
+        <div class="section-title">
+          <p>Selected Frames</p>
+          <h2 id="works-title">作品墙</h2>
+          <span id="work-count">00</span>
+        </div>
+
+        <div class="series-strip" id="series" aria-label="作品系列筛选"></div>
+
+        <div class="comic-grid" aria-live="polite"></div>
+      </section>
+
+      <section class="about-strip" id="about" aria-labelledby="about-title">
+        <div>
+          <p>About</p>
+          <h2 id="about-title">一本正在更新的生活漫画</h2>
+        </div>
+        <p>
+          这个模板把图片作为主角，用更强的颜色、粗线条和杂志排版承接你现在的旅行、美食、运动与城市生活作品。
+        </p>
+      </section>
+    </main>
+
+    <div class="comic-lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="作品大图预览" hidden>
+      <button class="lightbox-close" type="button" aria-label="关闭预览">×</button>
+      <div class="lightbox-frame">
+        <img class="lightbox-image" src="" alt="" />
+        <div class="lightbox-controls" aria-label="作品切换">
+          <button class="lightbox-nav previous" type="button" data-direction="previous" aria-label="上一张">‹ 上一张</button>
+          <button class="lightbox-nav next" type="button" data-direction="next" aria-label="下一张">下一张 ›</button>
+        </div>
+      </div>
+    </div>
+
+    <script src="gallery-data.js?v=15"></script>
+    <script src="comic-template.js?v=4"></script>
+  </body>
+</html>
