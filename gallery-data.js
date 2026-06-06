@@ -11,11 +11,6 @@ window.seriesLabels = {
 
 window.galleryItems = [
   {
-    "src": "assets/photos/其他/EB16D640-8DE7-4CA1-ACB6-503DB9AF59A7.png",
-    "title": "EB16D640 8DE7 4CA1 ACB6 503DB9AF59A7",
-    "series": "other"
-  },
-  {
     "src": "assets/photos/其他/花束与礼物.png",
     "title": "花束与礼物",
     "series": "other"
@@ -46,8 +41,13 @@ window.galleryItems = [
     "series": "city"
   },
   {
-    "src": "assets/photos/城市/街头玩偶墙绘.png",
-    "title": "街头玩偶墙绘",
+    "src": "assets/photos/城市/科学馆海滨女孩.png",
+    "title": "科学馆海滨女孩",
+    "series": "city"
+  },
+  {
+    "src": "assets/photos/城市/街头卡通墙绘.png",
+    "title": "街头卡通墙绘",
     "series": "city"
   },
   {
@@ -56,23 +56,18 @@ window.galleryItems = [
     "series": "city"
   },
   {
-    "src": "assets/photos/旅途/31A7E3D5-4068-4960-910C-06B82B3F760C.png",
-    "title": "31A7E3D5 4068 4960 910C 06B82B3F760C",
-    "series": "travel"
-  },
-  {
-    "src": "assets/photos/旅途/A18CC6AF-691A-4C04-BE3D-C4A31E1FDA66.png",
-    "title": "A18CC6AF 691A 4C04 BE3D C4A31E1FDA66",
-    "series": "travel"
-  },
-  {
     "src": "assets/photos/旅途/乌镇邮局女孩.png",
     "title": "乌镇邮局女孩",
     "series": "travel"
   },
   {
-    "src": "assets/photos/旅途/古城双人玩偶.png",
-    "title": "古城双人玩偶",
+    "src": "assets/photos/旅途/古城双人留影.png",
+    "title": "古城双人留影",
+    "series": "travel"
+  },
+  {
+    "src": "assets/photos/旅途/古巷民族风女孩.png",
+    "title": "古巷民族风女孩",
     "series": "travel"
   },
   {
@@ -86,8 +81,8 @@ window.galleryItems = [
     "series": "travel"
   },
   {
-    "src": "assets/photos/旅途/巴黎凯旋门玩偶.png",
-    "title": "巴黎凯旋门玩偶",
+    "src": "assets/photos/旅途/巴黎凯旋门留影.png",
+    "title": "巴黎凯旋门留影",
     "series": "travel"
   },
   {
@@ -106,8 +101,8 @@ window.galleryItems = [
     "series": "travel"
   },
   {
-    "src": "assets/photos/旅途/故宫双人玩偶.png",
-    "title": "故宫双人玩偶",
+    "src": "assets/photos/旅途/故宫双人留影.png",
+    "title": "故宫双人留影",
     "series": "travel"
   },
   {
@@ -146,13 +141,13 @@ window.galleryItems = [
     "series": "travel"
   },
   {
-    "src": "assets/photos/旅途/运河边自行车玩偶.png",
-    "title": "运河边自行车玩偶",
+    "src": "assets/photos/旅途/运河边自行车留影.png",
+    "title": "运河边自行车留影",
     "series": "travel"
   },
   {
-    "src": "assets/photos/旅途/长城雪景玩偶.png",
-    "title": "长城雪景玩偶",
+    "src": "assets/photos/旅途/长城雪景留影.png",
+    "title": "长城雪景留影",
     "series": "travel"
   },
   {
@@ -166,8 +161,8 @@ window.galleryItems = [
     "series": "travel"
   },
   {
-    "src": "assets/photos/旅途/颐和园湖畔玩偶.png",
-    "title": "颐和园湖畔玩偶",
+    "src": "assets/photos/旅途/颐和园湖畔留影.png",
+    "title": "颐和园湖畔留影",
     "series": "travel"
   },
   {
@@ -221,8 +216,13 @@ window.galleryItems = [
     "series": "food"
   },
   {
-    "src": "assets/photos/美食/茶餐厅小食玩偶.png",
-    "title": "茶餐厅小食玩偶",
+    "src": "assets/photos/美食/茶餐厅小食时光.png",
+    "title": "茶餐厅小食时光",
+    "series": "food"
+  },
+  {
+    "src": "assets/photos/美食/超市自助结账.png",
+    "title": "超市自助结账",
     "series": "food"
   },
   {
@@ -236,8 +236,8 @@ window.galleryItems = [
     "series": "food"
   },
   {
-    "src": "assets/photos/美食/餐厅门口玩偶.png",
-    "title": "餐厅门口玩偶",
+    "src": "assets/photos/美食/餐厅门口合影.png",
+    "title": "餐厅门口合影",
     "series": "food"
   },
   {
