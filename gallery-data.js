@@ -11,6 +11,11 @@ window.seriesLabels = {
 
 window.galleryItems = [
   {
+    "src": "assets/photos/其他/EB16D640-8DE7-4CA1-ACB6-503DB9AF59A7.png",
+    "title": "EB16D640 8DE7 4CA1 ACB6 503DB9AF59A7",
+    "series": "other"
+  },
+  {
     "src": "assets/photos/其他/花束与礼物.png",
     "title": "花束与礼物",
     "series": "other"
@@ -49,6 +54,16 @@ window.galleryItems = [
     "src": "assets/photos/城市/阿姆斯特丹运河骑行.png",
     "title": "阿姆斯特丹运河骑行",
     "series": "city"
+  },
+  {
+    "src": "assets/photos/旅途/31A7E3D5-4068-4960-910C-06B82B3F760C.png",
+    "title": "31A7E3D5 4068 4960 910C 06B82B3F760C",
+    "series": "travel"
+  },
+  {
+    "src": "assets/photos/旅途/A18CC6AF-691A-4C04-BE3D-C4A31E1FDA66.png",
+    "title": "A18CC6AF 691A 4C04 BE3D C4A31E1FDA66",
+    "series": "travel"
   },
   {
     "src": "assets/photos/旅途/乌镇邮局女孩.png",
@@ -156,11 +171,6 @@ window.galleryItems = [
     "series": "travel"
   },
   {
-    "src": "assets/photos/旅途/高铁站行李玩偶.png",
-    "title": "高铁站行李玩偶",
-    "series": "travel"
-  },
-  {
     "src": "assets/photos/美食/中式圆桌聚餐.png",
     "title": "中式圆桌聚餐",
     "series": "food"
@@ -206,11 +216,6 @@ window.galleryItems = [
     "series": "food"
   },
   {
-    "src": "assets/photos/美食/烧鹅饭女孩漫画.png",
-    "title": "烧鹅饭女孩漫画",
-    "series": "food"
-  },
-  {
     "src": "assets/photos/美食/红灯笼餐馆菜单.png",
     "title": "红灯笼餐馆菜单",
     "series": "food"
@@ -228,11 +233,6 @@ window.galleryItems = [
   {
     "src": "assets/photos/美食/越南粉餐厅女孩.png",
     "title": "越南粉餐厅女孩",
-    "series": "food"
-  },
-  {
-    "src": "assets/photos/美食/越南粉餐桌玩偶.png",
-    "title": "越南粉餐桌玩偶",
     "series": "food"
   },
   {
