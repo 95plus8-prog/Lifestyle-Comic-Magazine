@@ -21,13 +21,13 @@ window.galleryItems = [
     "series": "city"
   },
   {
-    "src": "assets/photos/城市/城市广场漫步.png",
-    "title": "城市广场漫步",
+    "src": "assets/photos/城市/城市广场双人自拍.png",
+    "title": "城市广场双人自拍",
     "series": "city"
   },
   {
-    "src": "assets/photos/城市/宜家家居自拍.png",
-    "title": "宜家家居自拍",
+    "src": "assets/photos/城市/城市广场漫步.png",
+    "title": "城市广场漫步",
     "series": "city"
   },
   {
@@ -61,18 +61,8 @@ window.galleryItems = [
     "series": "travel"
   },
   {
-    "src": "assets/photos/旅途/古城双人留影.png",
-    "title": "古城双人留影",
-    "series": "travel"
-  },
-  {
     "src": "assets/photos/旅途/古巷民族风女孩.png",
     "title": "古巷民族风女孩",
-    "series": "travel"
-  },
-  {
-    "src": "assets/photos/旅途/古镇摄影旅人.png",
-    "title": "古镇摄影旅人",
     "series": "travel"
   },
   {
@@ -98,11 +88,6 @@ window.galleryItems = [
   {
     "src": "assets/photos/旅途/彩旗街巷旅拍.png",
     "title": "彩旗街巷旅拍",
-    "series": "travel"
-  },
-  {
-    "src": "assets/photos/旅途/故宫双人留影.png",
-    "title": "故宫双人留影",
     "series": "travel"
   },
   {
@@ -141,13 +126,8 @@ window.galleryItems = [
     "series": "travel"
   },
   {
-    "src": "assets/photos/旅途/运河边自行车留影.png",
-    "title": "运河边自行车留影",
-    "series": "travel"
-  },
-  {
-    "src": "assets/photos/旅途/长城雪景留影.png",
-    "title": "长城雪景留影",
+    "src": "assets/photos/旅途/邮轮码头双人合影.png",
+    "title": "邮轮码头双人合影",
     "series": "travel"
   },
   {
@@ -158,11 +138,6 @@ window.galleryItems = [
   {
     "src": "assets/photos/旅途/霓虹街头旅拍.png",
     "title": "霓虹街头旅拍",
-    "series": "travel"
-  },
-  {
-    "src": "assets/photos/旅途/颐和园湖畔留影.png",
-    "title": "颐和园湖畔留影",
     "series": "travel"
   },
   {
@@ -191,11 +166,6 @@ window.galleryItems = [
     "series": "food"
   },
   {
-    "src": "assets/photos/美食/快餐车窗座位.png",
-    "title": "快餐车窗座位",
-    "series": "food"
-  },
-  {
     "src": "assets/photos/美食/港式烧味套餐.png",
     "title": "港式烧味套餐",
     "series": "food"
@@ -203,11 +173,6 @@ window.galleryItems = [
   {
     "src": "assets/photos/美食/点心礼盒女孩.png",
     "title": "点心礼盒女孩",
-    "series": "food"
-  },
-  {
-    "src": "assets/photos/美食/烧鹅拼盘漫画.png",
-    "title": "烧鹅拼盘漫画",
     "series": "food"
   },
   {
@@ -243,6 +208,16 @@ window.galleryItems = [
   {
     "src": "assets/photos/美食/魔法奶茶桌漫画.png",
     "title": "魔法奶茶桌漫画",
+    "series": "food"
+  },
+  {
+    "src": "assets/photos/美食/麦当劳天妇罗餐.png",
+    "title": "麦当劳天妇罗餐",
+    "series": "food"
+  },
+  {
+    "src": "assets/photos/美食/麦当劳餐桌素描.png",
+    "title": "麦当劳餐桌素描",
     "series": "food"
   },
   {
